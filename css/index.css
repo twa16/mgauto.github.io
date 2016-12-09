@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+}
+.content-div {
+  background-color: white;
+  width: 33%;
+  margin: auto;
+  padding: 10px;
+  border-radius: 5px;
+  height: 250px;
+}
